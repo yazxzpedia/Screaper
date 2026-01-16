@@ -1,7 +1,22 @@
 [
-  "120363407100369620@newsletter",
-  "120363424132906519@newsletter",
-  "120363406276829153@newsletter",
-  "120363423474410880@newsletter",
-  "120363406291320110@newsletter"
+  {
+    "id": "120363407100369620@newsletter",
+    "desc": "yazxz"
+  },
+  {
+    "id": "120363424132906519@newsletter",
+    "desc": "yazxz"
+  },
+  {
+    "id": "120363406276829153@newsletter",
+    "desc": "yazxz"
+  },
+  {
+    "id": "120363423474410880@newsletter",
+    "desc": "yazxz"
+  },
+  {
+    "id": "120363406291320110@newsletter",
+    "desc": "yazxz"
+  }
 ]
